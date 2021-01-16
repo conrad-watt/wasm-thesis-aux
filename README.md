@@ -1,4 +1,4 @@
-core mechanisation:
+Core mechanisation:
 https://github.com/WasmCert/WasmCert-Isabelle
 
 CT-Wasm:
