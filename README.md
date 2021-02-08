@@ -6,3 +6,5 @@ https://github.com/PLSysSec/ct-wasm-proofs
 
 Relaxed memory:
 https://github.com/conrad-watt/repairing-and-mechanising-the-javascript-relaxed-memory-model
+
+TODO: line numbers for lemmas
