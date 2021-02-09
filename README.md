@@ -9,7 +9,7 @@ Lemmas:
 - [e_type_consts](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties_Aux.thy#L1293)
 - [store_extension_refl](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties_Aux.thy#L1395)
 - [inst_typing_store_extension_inv](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties_Aux.thy#L1682)
-- [frame_typing_store_extension_inv](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties_Aux.thy#L1733)
+- [frame_typing_store_extension_inv](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties_Aux.thy#L1714)
 - [types_preserved_e2](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties.thy#L1542)
 - [preservation](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Soundness.thy#L5)
 - [progress_e](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties.thy#L2601)
