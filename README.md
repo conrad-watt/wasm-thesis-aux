@@ -3,8 +3,7 @@ https://github.com/WasmCert/WasmCert-Isabelle
 
 - [Reduction and type system](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm.thy)
 - [Type Checker](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Checker.thy)
-- [Interpreter](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Interpreter.thy)
-- [Extracted executable interpreter](https://github.com/conrad-watt/spec/tree/conrad-interpreter/interpreter)
+- [Interpreter](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Interpreter.thy) ([extracted with OCaml harness](https://github.com/conrad-watt/spec/tree/conrad-interpreter/interpreter))
 
 Lemmas:
 - [e_type_consts](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Properties_Aux.thy#L1293)
