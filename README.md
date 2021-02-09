@@ -1,4 +1,4 @@
-####Soundness proof and mechanisation:
+**Soundness proof and mechanisation**:
 https://github.com/WasmCert/WasmCert-Isabelle
 
 - [Reduction and type system](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm.thy)
@@ -20,10 +20,10 @@ Lemmas:
 - [run_step_break_imp_lfilled](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Interpreter_Properties.thy#L1132)
 - [run_step_sound](https://github.com/WasmCert/WasmCert-Isabelle/blob/master/WebAssembly/Wasm_Interpreter_Properties.thy#L1769)
 
-CT-Wasm:
+**CT-Wasm**:
 https://github.com/PLSysSec/ct-wasm-proofs
 
-Relaxed memory:
+**Relaxed memory**:
 https://github.com/conrad-watt/repairing-and-mechanising-the-javascript-relaxed-memory-model
 
 TODO: line numbers for lemmas
