@@ -26,4 +26,6 @@ https://github.com/PLSysSec/ct-wasm-proofs
 **Relaxed memory**:
 https://github.com/conrad-watt/repairing-and-mechanising-the-javascript-relaxed-memory-model
 
-TODO: line numbers for lemmas
+Lemmas:
+- [internal_sc_drf](https://github.com/conrad-watt/repairing-and-mechanising-the-javascript-relaxed-memory-model/blob/master/coq/src/jsmm_mixed/JSMM_m_scdrf.v#L57)
+- [jsmm_compilation](https://github.com/conrad-watt/repairing-and-mechanising-the-javascript-relaxed-memory-model/blob/master/coq/src/arm_mixed/JSMM_mToArm_mixed.v#L962)
