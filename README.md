@@ -23,6 +23,12 @@ Lemmas:
 **CT-Wasm**:
 https://github.com/PLSysSec/ct-wasm-proofs
 
+Lemmas:
+- [config_indistinguishable_imp_config_typing](https://github.com/PLSysSec/ct-wasm-proofs/blob/master/CT-WASM_model/Wasm_Secret_Aux.thy#L891)
+- [config_indistinguishable_imp_reduce](https://github.com/PLSysSec/ct-wasm-proofs/blob/master/CT-WASM_model/Wasm_Secret.thy#L2165)
+- [config_indistinguishable_imp_reduce2](https://github.com/PLSysSec/ct-wasm-proofs/blob/master/CT-WASM_model/Wasm_Constant_Time.thy#L138)
+- [config_untrusted_constant_time](https://github.com/PLSysSec/ct-wasm-proofs/blob/master/CT-WASM_model/Wasm_Constant_Time.thy#L247)
+
 **Relaxed memory**:
 https://github.com/conrad-watt/repairing-and-mechanising-the-javascript-relaxed-memory-model
 
